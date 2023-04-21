@@ -12,6 +12,8 @@
 <ol>
 <li>Python</li>
 <li>C</li>
+<li>HTML</li>
+<li>CSS</li>
 </ol>
 <h3>I'm learning</h3>
 <ol>
