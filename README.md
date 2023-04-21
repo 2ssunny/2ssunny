@@ -3,6 +3,7 @@
 </br>
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2ssunny)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2ssunny)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <h1>Juho Lee(ssunny)
