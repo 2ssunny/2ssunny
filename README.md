@@ -21,6 +21,6 @@
     <img alt="AWSS3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=flat-square&logo=amazons3&logoColor=white"/>
 </div>
 <div>
-<h1> Juho "Andrew" Lee (ssunny)
+<h1> Andrew Juho Lee (ssunny)
 </h1>
 </div>
